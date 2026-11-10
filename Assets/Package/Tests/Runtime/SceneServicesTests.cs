@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using UnityEngine.SceneManagement;
 
-namespace OneFinalClick.Services.Tests.Runtime
+namespace OneLastClick.Services.Tests.Runtime
 {
     public class SceneServicesTests
     {
