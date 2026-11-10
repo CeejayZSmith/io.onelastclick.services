@@ -104,12 +104,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "io.onefinalclick.projectsettings": {
-      "version": "https://github.com/OneFinalClick/io.onefinalclick.projectsettings.git?path=/Assets/Package",
+    "io.onelastclick.projectsettings": {
+      "version": "https://github.com/CeejayZSmith/io.onelastclick.projectsettings.git?path=/Assets/Package",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "3d86c0f81e894c6a8f3aaf81ec74c889e96bea07"
+      "hash": "d031025fece837401e39e79fe5c8f3020e95f3e9"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",

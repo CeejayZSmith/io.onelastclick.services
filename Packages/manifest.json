@@ -7,7 +7,7 @@
     "com.unity.multiplayer.center": "1.0.1",
     "com.unity.test-framework": "1.6.0",
     "com.unity.ugui": "2.0.0",
-    "io.onefinalclick.projectsettings": "https://github.com/OneFinalClick/io.onefinalclick.projectsettings.git?path=/Assets/Package",
+    "io.onelastclick.projectsettings": "https://github.com/CeejayZSmith/io.onelastclick.projectsettings.git?path=/Assets/Package",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

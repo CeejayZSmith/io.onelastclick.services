@@ -1,9 +1,9 @@
 using System;
-using OneFinalClick.Services;
-using OneFinalClick.Services.Injection;
+using OneLastClick.Services;
+using OneLastClick.Services.Injection;
 using NUnit.Framework;
 
-namespace OneFinalClick.Tests.Services
+namespace OneLastClick.Tests.Services
 {
     public partial class ServiceCollectionTests
     {
