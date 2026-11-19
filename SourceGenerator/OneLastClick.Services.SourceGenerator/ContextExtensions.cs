@@ -28,7 +28,7 @@ namespace OneLastClick.Services.SourceGenerator
                         .GetAttributes()
                         .Any(attribute => SymbolEqualityComparer.Default.Equals(attribute.AttributeClass, attributeSymbol));
 
-                    if (hasAttribute)
+                    if (hasAttribute && services.Contains(typeSymbol) == false)
                     {
                         services.Add(typeSymbol);
                     }
